@@ -5,6 +5,7 @@
 - **E-MAIL** : tjdrudals4749\@naver.com 
 - **PHONE** : 010-6685-7083
 - **Github** : [https://github.com/kyungmin-20](https://github.com/kyungmin-20)
+
 ---
 ## - 자기소개 및 희망 직무
 - **희망 직무:** 넥슨 메이플스토리 QA 엔지니어 
