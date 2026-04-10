@@ -53,6 +53,7 @@
 - SQLD
 - ADSP
 - 빅데이터분석기사
+
 ---
 ## 추천인 (References)
 * **박규동 교수** ([kdpark@kw.ac.kr](kdpark@kw.ac.kr))
